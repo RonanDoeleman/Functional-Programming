@@ -28,7 +28,7 @@ const fetchPokemon = () => {
                 height: data.height,
                 weight: data.weight,
         // elk item wordt veranderd naar de door ons opgestelde format zoals hierboven 
-        // (Hierdoor krijgen we alleen de benodigde info voor elke pokemon uit de api).
+        // (Hierdoor krijgen we alleen deze specifieke data voor elke pokemon uit de api).
 
         }));
         console.log(pokemon);
