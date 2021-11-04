@@ -50,7 +50,8 @@ validAnswers.forEach((i) => { sum[i] = (sum[i]|0) + 1;
     })
 });
 // Hier heb ik alle antwoorden die meer dan 1 keer voorkwamen bij elkaar opgeteld, zo zie je welke merknamen 
-// het meeste voorkomen.
+// het meeste voorkomen. met forEach wordt er gecheckt in validAnswers of termen vaker voorkomen. Als dit zo is
+// wordt er 1 bij het totaal opgeteld.
 
 console.log(sum);
 
