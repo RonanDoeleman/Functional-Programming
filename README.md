@@ -11,4 +11,4 @@ Shown beneath is the rubric for our grades.
 
 # Credits
 
-- All the credits go to all teachers and students who were present at the Tech Track Lessons at the HvA Leeuwenburg
+- All the credits go to all teachers and students who were present at the Tech Track Lessons at the HvA Leeuwenburg ❤️ 🤓
